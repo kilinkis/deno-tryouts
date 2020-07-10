@@ -1,0 +1,1 @@
+console.log(`Hello ${Deno.args[0]}!, welcome to Deno 🦕`);
